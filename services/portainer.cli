@@ -1,0 +1,2 @@
+--run portainer
+docker run -d -p 8100:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /home/igorguilherme/Documentos/docker/volumes/portainer/data:/data portainer/portainer

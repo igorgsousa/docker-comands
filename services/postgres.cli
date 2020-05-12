@@ -1,0 +1,2 @@
+-- start postgres9.5
+ docker run --name postgres-9.5 -p 5432:5432  -e POSTGRES_PASSWORD=mpostgres -e PGDATA=/var/lib/postgresql/data/pgdata  -v /home/igorguilherme/Documentos/docker/volumes/postgreSQL9.5/data:/var/lib/postgresql/data  -d postgres:9.5-alpine
