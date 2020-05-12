@@ -1,2 +1,7 @@
 # docker-comands
-Comando comuns para gerenciar containers que uso frequentemente.
+O intuito deste repositorio é de servir de base de consulta de para utilização do Docker.
+
+
+Segue abaixo um indice dos comando possiveis de utilizar:
+
+
