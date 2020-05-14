@@ -1,0 +1,2 @@
+--run registry
+docker run --name registry -p 5000:5000 -d --restart=always -v registry_data:/var/lib/registry registry:2
