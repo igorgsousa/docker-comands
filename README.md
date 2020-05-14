@@ -4,9 +4,12 @@ O intuito deste repositorio é de servir de base de consulta de para utilizaçã
 
 Segue abaixo uma lista dos servicos disponiveis para consulta:
 
-* PostgreSQL
+* Jenkins
 * MySQL
 * PgAdmin4
 * Portainer
+* PostgreSQL
+
+
 
 
